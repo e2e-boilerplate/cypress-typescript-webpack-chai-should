@@ -10,7 +10,7 @@
     "ts-loader": "9.3.0",
     "tsify": "5.0.4",
     "typescript": "4.6.4",
-    "webpack": "5.72.0"
+    "webpack": "5.72.1"
   },
   "description": "Cypress end-to-end test automation boilerplate. Using TypeScript, Webpack, Chai and Should.",
   "devDependencies": {
